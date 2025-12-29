@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "The End",
+  "base_artist": "Base Ball Bear",
+  "createdAt": "2025-12-29T01:44:25.374406Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "At the End of a Bar",
+      "artist": "Chris Young feat. Mitchell Tenpenny",
+      "has_synced": true,
+      "path": "select/01_At_the_End_of_a_Bar_Chris_Young_feat._Mitchell_Tenpenny.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "At the End of a Bar",
+      "artist": "Chris Young",
+      "has_synced": true,
+      "path": "select/02_At_the_End_of_a_Bar_Chris_Young.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Break Up in the End",
+      "artist": "Cole Swindell",
+      "has_synced": true,
+      "path": "select/03_Break_Up_in_the_End_Cole_Swindell.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Till the End",
+      "artist": "Vern Gosdin",
+      "has_synced": true,
+      "path": "select/04_Till_the_End_Vern_Gosdin.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "In the End",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/05_In_the_End_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The End",
+      "artist": "In Fear and Faith",
+      "has_synced": true,
+      "path": "select/06_The_End_In_Fear_and_Faith.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Loser In The End",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/07_The_Loser_In_The_End_Queen.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The End of Eternity",
+      "artist": "Rolo Tomassi",
+      "has_synced": true,
+      "path": "select/08_The_End_of_Eternity_Rolo_Tomassi.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The End the End",
+      "artist": "Blondie",
+      "has_synced": true,
+      "path": "select/09_The_End_the_End_Blondie.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dance Me to the End of Love",
+      "artist": "Leonard Cohen",
+      "has_synced": true,
+      "path": "select/10_Dance_Me_to_the_End_of_Love_Leonard_Cohen.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "It's Not the End of the World",
+      "artist": "Le Sport",
+      "has_synced": true,
+      "path": "select/11_It's_Not_the_End_of_the_World_Le_Sport.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Outside of This Car, the End of the World",
+      "artist": "Le Loup",
+      "has_synced": false,
+      "path": "select/12_Outside_of_This_Car,_the_End_of_the_World_Le_Loup.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The End",
+      "artist": "Les Savy Fav",
+      "has_synced": true,
+      "path": "select/13_The_End_Les_Savy_Fav.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The End Of The Asterisk",
+      "artist": "Los Campesinos!",
+      "has_synced": true,
+      "path": "select/14_The_End_Of_The_Asterisk_Los_Campesinos!.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "In the End",
+      "artist": "Mira",
+      "has_synced": false,
+      "path": "select/15_In_the_End_Mira.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Lose It (In The End)",
+      "artist": "Mark Ronson & The Business Intl",
+      "has_synced": true,
+      "path": "select/16_Lose_It_(In_The_End)_Mark_Ronson_&_The_Business_Intl.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The End",
+      "artist": "BaseBallBear",
+      "has_synced": false,
+      "path": "select/pl_01_The_End_BaseBallBear.txt"
+    }
+  ]
+}
